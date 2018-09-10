@@ -1,3 +1,6 @@
+# Evolution Simulator
+Evolution simulator build upon the more basic but awesome original example from @karpathy's notpygame canvas library.
+
 # notpygamejs
 Game making library for Javascript with the Canvas element.
 Andrej Karpathy
